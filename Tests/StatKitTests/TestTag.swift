@@ -10,4 +10,6 @@ extension Tag {
   @Tag static var betaFunction: Self
   @Tag static var binomialCoefficient: Self
   @Tag static var distribution: Self
+  @Tag static var linearRegression: Self
+  @Tag static var hypothesisTesting: Self
 }
